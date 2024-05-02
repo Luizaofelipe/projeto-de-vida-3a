@@ -46,5 +46,12 @@ conteudo-principal{
 }
 .botao{
     font-family: "Crakra Petch", sans-serif;
-    background-color: var(  botao-ativo);
+    background-color: var(  botao-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: lem;
+    font-size: 18px;
+    align-items: center;
+    width: ;
 }
